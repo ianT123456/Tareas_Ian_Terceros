@@ -1,0 +1,26 @@
+PresentacionEjercicios/TeTa/origen.java
+ PresentacionEjercicios.TeTa.origen
+PresentacionEjercicios/TeTa/creadorPasajeSolidario.java
+ PresentacionEjercicios.TeTa.creadorPasajeSolidario
+PresentacionEjercicios/TeTa/creadorPasajeEstandar.java
+ PresentacionEjercicios.TeTa.creadorPasajeEstandar
+PresentacionEjercicios/TeTa/PasajeStandart.java
+ PresentacionEjercicios.TeTa.PasajeStandart
+PresentacionEjercicios/TeTa/avion.java
+ PresentacionEjercicios.TeTa.avion
+PresentacionEjercicios/TeTa/creadorDePasajes.java
+ PresentacionEjercicios.TeTa.creadorDePasajes
+PresentacionEjercicios/TeTa/IPasaje.java
+ PresentacionEjercicios.TeTa.IPasaje
+PresentacionEjercicios/TeTa/destino.java
+ PresentacionEjercicios.TeTa.destino
+PresentacionEjercicios/TeTa/pasajero.java
+ PresentacionEjercicios.TeTa.pasajero
+PresentacionEjercicios/TeTa/PasajeSolidario.java
+ PresentacionEjercicios.TeTa.PasajeSolidario
+PresentacionEjercicios/TeTa/PasajeInfante.java
+ PresentacionEjercicios.TeTa.PasajeInfante
+PresentacionEjercicios/TeTa/Cliente.java
+ PresentacionEjercicios.TeTa.Cliente
+PresentacionEjercicios/TeTa/creadorPasajeInfante.java
+ PresentacionEjercicios.TeTa.creadorPasajeInfante
